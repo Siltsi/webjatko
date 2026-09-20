@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #17212b;
+  background: #6cba71;
+  line-height: 1.6;
+}

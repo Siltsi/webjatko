@@ -1,0 +1,18 @@
+.page {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #14610d;
+}
+
+li {
+  margin-block: 16px;
+}
+
+li:nth-child(even) {
+  color: #14610d;
+}
